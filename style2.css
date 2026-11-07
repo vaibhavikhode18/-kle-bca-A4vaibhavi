@@ -1,0 +1,17 @@
+.h2{
+    color: aqua;
+}
+.h2{
+    color: rgb(19, 175, 30);
+}
+.h3{
+    color: rgb(188, 67, 150);
+}
+.h4{
+    color: rgb(188, 67, 150);
+}
+#id1{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
